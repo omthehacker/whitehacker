@@ -1,2 +1,0 @@
-# whitehacker
-print('hello')
